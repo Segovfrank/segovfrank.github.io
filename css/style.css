@@ -3,9 +3,6 @@ body {
     overflow-x: hidden; /* Hide horizontal scrollbar */
   }
 
-  #mainLogo{
-  }
-
   .green-gradient{
     background: rgb(53,216,148);
     background: linear-gradient(180deg, rgba(53,216,148,1) 0%, rgba(9,157,95,1) 70%);
@@ -59,4 +56,11 @@ body {
       margin-top: 64px;
   }
 
+  .community-guidelines{
+    margin-top: 64px;
+  }
 
+  .margin-vertical{
+    margin-bottom: 16px;
+    margin-top: 16px;
+  }
