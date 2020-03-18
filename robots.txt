@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /assets/contentdecor.png
+sitemap: https://learnion.net/sitemap
